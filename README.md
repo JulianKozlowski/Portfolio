@@ -2,12 +2,11 @@
 # Tester portfolio
 ## About me
 Hi everyone!
-I love mountains, gym, playing games and reading books.
+I love mountains, the gym, playing games, and reading books.
 
-I'd love to switch business to broadly speaking - IT and software testing in particular due to new technologies, new challenges and modern approach to the employee and work organization witch is the most important thing to me.
+I'd love to switch my career to the field of IT and software testing in particular, due to the new technologies, modern approache to employee and work organization which are most important to me.
 
-Currently I work as a data analyst in the Polish special forces. Discipline, detail and analytical mind are my everyday life.
-Moreover, several years in the army thought me comradeship, teamwork, openness, and peace of mind.
+Currently, I work as a data analyst in the Polish Army. Discipline, attention to detail, and an analytical mindset are a part of my everyday life. Moreover, several years in the army taught me about comradeship, teamwork, openness, and peace of mind.
 
 ## Course
 * Software tester - Software Development Academy
