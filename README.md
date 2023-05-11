@@ -1,7 +1,14 @@
 
 # Tester portfolio
 ## About me
-I am improving my knowledge of Java on my own thanks to courses on YT. In addition, I am improving my testing skills due to tasks on Mr. Buggy. Several years in the army taught me discipline, meticulousness, teamwork and great communication.
+Hi everyone!
+I love mountains, gym, playing games and reading books.
+
+I'd love to switch business to broadly speaking - IT and software testing in particular due to new technologies, new challenges and modern approach to the employee and work organization witch is the most important thing to me.
+
+Currently I work as a data analyst in the Polish special forces. Discipline, detail and analytical mind are my everyday life.
+Moreover, several years in the army thought me comradeship, teamwork, openness, and peace of mind.
+
 ## Course
 * Software tester - Software Development Academy
 ## Certificate
