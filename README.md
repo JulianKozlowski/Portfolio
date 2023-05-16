@@ -9,7 +9,7 @@ I'd love to switch my career to the field of IT and software testing in particul
 Currently, I work as a data analyst in the Polish Army. Discipline, attention to detail, and an analytical mindset are a part of my everyday life. Moreover, several years in the army taught me about comradeship, teamwork, openness, and peace of mind.
 
 ## Course
-* Software Development Academy
+* [Software tester]([https://app.diplomasafe.com/pl-PL/diploma/d2c117cfbe000ae9acd285f66facbb8f88a028a2c](https://sdacademy.pl/kursy/software-tester/?utm_source=google&utm_medium=cpc&utm_campaign=&utm_term=&utm_content=&gclid=CjwKCAjw04yjBhApEiwAJcvNoc02M42VYPV5dTDnMbHwSDwsW0Fg2Q_RrSIwfvhto_aRSTKbrsKm-RoC-eQQAvD_BwE))
 ## Certificate
 * [Software tester certificate](https://app.diplomasafe.com/pl-PL/diploma/d2c117cfbe000ae9acd285f66facbb8f88a028a2c)
 ## My project
