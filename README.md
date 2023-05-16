@@ -13,7 +13,7 @@ Currently, I work as a data analyst in the Polish Army. Discipline, attention to
 ## Certificate
 * [Software tester certificate](https://app.diplomasafe.com/pl-PL/diploma/d2c117cfbe000ae9acd285f66facbb8f88a028a2c)
 ## My project
-* [Final project of the course](https://drive.google.com/drive/folders/1dTiTV9ygcqcIoNHNnf4E6U37BZovRXAv?usp=sharing)
+* [Final project of the course dev.skitraj.pl](https://drive.google.com/drive/folders/1dTiTV9ygcqcIoNHNnf4E6U37BZovRXAv?usp=sharing)
 ## Tech skills 
 * JAVA
 * Editor IntelliJ
